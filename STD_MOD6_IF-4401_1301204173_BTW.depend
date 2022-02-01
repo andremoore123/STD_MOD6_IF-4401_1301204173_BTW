@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1635360972 source:e:\file kuliah\semester 3\struktur data\tugas\codingan\std_mod6_if-4401_1301204173_btw\main.cpp
+	"DLL_First_Last.h"
+	<iostream>
+
+1635360970 e:\file kuliah\semester 3\struktur data\tugas\codingan\std_mod6_if-4401_1301204173_btw\dll_first_last.h
+	<iostream>
+
+1635360542 source:e:\file kuliah\semester 3\struktur data\tugas\codingan\std_mod6_if-4401_1301204173_btw\dll_first_last.cpp
+	"DLL_First_Last.h"
+	<iostream>
+
